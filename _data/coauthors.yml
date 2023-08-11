@@ -1,34 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Doupé":
+  - firstname: ["Adam", "A.", "A. D.", "Adam Doupé"]
+    url: https://adamdoupe.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Rubio-Medrano":
+  - firstname: ["Carlos", "C.", "C. R.", "Carlos Rubio-Medrano"]
+    url: https://carlosrubiomedrano.com/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Shoshitaishvili":
+  - firstname: ["Yan", "Y.", "Y. S.", "Yan Shoshitaishvili"]
+    url: http://yancomm.net/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ahn": 
+  - firstname: ["Gail-Joon", "G. A.","Gail-Joon Ahn"]
+    url: https://www.public.asu.edu/~gahn1/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Bao":
+  - firstname: ["Tiffany", "T.", "T. B.", "Tiffany Bao"]
+    url: https://www.tiffanybao.com/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Wang":
+  - firstname: ["Ruoyu", "R.", "R. W.", "Ruoyu Wang"]
+    url: https://rev.fish/
