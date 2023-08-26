@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-24 15:59:00-0400
+date: 2022-10-07 15:59:00-0400
 inline: true
 ---
 
-I had an amazing time attending the 43rd IEEE Symposium on Security and Privacy :horse:	in-person in San Francisco. Even more after two years of online only conferences. I enjoyed <a href="https://twitter.com/efren_lopezm/status/1529196237777276928" target="blank">catching up</a> with old friends as well. I would not have been able to attend without the support from the Student Travel Grant :moneybag: Thank you to the organizers.
+I  <a target="_blank" href="{{ '/assets/img/gmis2022-poster.jpg' | prepend: site.baseurl | prepend: site.url }}">presented my poster</a> "Exploiting and Securing Programmable Logic Controllers" at the <a href="https://twitter.com/GreatMindsSTEM" target="blank">2022 Great Minds in STEM Conference</a> in beautiful Pasadena, CA. The best part was networking with the amazing Hispanic STEM community! :grin:

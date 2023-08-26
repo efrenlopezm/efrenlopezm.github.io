@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-04 07:59:00-0400
+date: 2022-04-07 15:59:00-0400
 inline: true
 ---
 
-I had a blast <a target="_blank" href="{{ '/assets/img/TAMUpathways2022.jpeg' | prepend: site.baseurl | prepend: site.url }}">attending</a> the <a href="https://grad.tamu.edu/knowledge-center/dates-and-deadlines/17th-annual-pathways-symposium" target="blank">17th Texas A&M University System Pathways Student Research Symposium</a> held in the College Station campus. I am also proud to have advanced to the Lightning Talks Finals :sunglasses:
+I'm really happy to receive the :1st_place_medal: place in the <a href="https://threeminutethesis.uq.edu.au/" target="blank">3 Minute Thesis Competition</a> held by the <a href="https://twitter.com/TAMUCCGROW/status/1524506500009447424" target="blank">TAMUCC Graduate College</a>. I <a href="https://www.youtube.com/watch?v=h4VsS2T1RKk&t=2s" target="blank">presented "Exploiting and Securing Programmable Logic Controllers"</a>.

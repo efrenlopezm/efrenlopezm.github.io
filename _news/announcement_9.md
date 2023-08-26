@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-07 15:59:00-0400
+date: 2022-08-01 15:59:00-0400
 inline: true
 ---
 
-I'm really happy to receive the :1st_place_medal: place in the <a href="https://threeminutethesis.uq.edu.au/" target="blank">3 Minute Thesis Competition</a> held by the <a href="https://twitter.com/TAMUCCGROW/status/1524506500009447424" target="blank">TAMUCC Graduate College</a>. I <a href="https://www.youtube.com/watch?v=h4VsS2T1RKk&t=2s" target="blank">presented "Exploiting and Securing Programmable Logic Controllers"</a>.
+I had a blast as a visiting student researcher at the <a href="https://users.soe.ucsc.edu/~alacarde/" target="blank">Cy-Phy Security Lab</a> :artificial_satellite:	at <a href="{{ '/assets/video/deer-family.m4v' | prepend: site.baseurl | prepend: site.url }}" target="blank">beatiful UC Santa Cruz</a>. I am humbled to have worked on CPS research with <a href="https://scholar.google.com/citations?user=zbubH9oAAAAJ&hl=en" target="blank">Dr. Álvaro Cárdenas</a> and his amazing team. I am grateful for their hospitality.

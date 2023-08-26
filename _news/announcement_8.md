@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-18 07:59:00-0400
+date: 2022-05-24 15:59:00-0400
 inline: true
 ---
 
-I had the pleasure of visiting <a href="http://www.unsij.edu.mx/" target="blank">Universidad de la Sierra Juárez</a> in :mexico: as a guest speaker and <a target="_blank" href="{{ '/assets/img/universidad-sierra-juarez.jpeg' | prepend: site.baseurl | prepend: site.url }}">presented</a> <q>Ciberseguridad: Habilidades y Oportunidades</q>. Thank you for the <a target="_blank" href="{{ '/assets/pdf/Reconocimiento_Efren.pdf' | prepend: site.baseurl | prepend: site.url }}">appreciation</a>!
+I had an amazing time attending the 43rd IEEE Symposium on Security and Privacy :horse:	in-person in San Francisco. Even more after two years of online only conferences. I enjoyed <a href="https://twitter.com/efren_lopezm/status/1529196237777276928" target="blank">catching up</a> with old friends as well. I would not have been able to attend without the support from the Student Travel Grant :moneybag: Thank you to the organizers.

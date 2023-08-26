@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-11-19 07:59:00-0400
+date: 2022-03-18 07:59:00-0400
 inline: true
 ---
 
-I really enjoyed virtually attending <a href="https://www.sigsac.org/ccs/CCS2021/" target="blank">ACM CCS</a> this year. I think this year's organizers did a fantastic job. I particularly liked the VOD presentations with both short and long versions available. I hope I get the chance to visit South Korea :kr: and I am looking forward to next year's event in Los Angeles. :star::bear::evergreen_tree:
+I had the pleasure of visiting <a href="http://www.unsij.edu.mx/" target="blank">Universidad de la Sierra Juárez</a> in :mexico: as a guest speaker and <a target="_blank" href="{{ '/assets/img/universidad-sierra-juarez.jpeg' | prepend: site.baseurl | prepend: site.url }}">presented</a> <q>Ciberseguridad: Habilidades y Oportunidades</q>. Thank you for the <a target="_blank" href="{{ '/assets/pdf/Reconocimiento_Efren.pdf' | prepend: site.baseurl | prepend: site.url }}">appreciation</a>!
