@@ -10,5 +10,5 @@ nav_order: 5
 <b>Texas A&M University-Corpus Christi</b>
 
 <ul>
-  <li><b>Instructor of Record (16 Students)</b> - COSC-4367 Firewalls and Intrusion Detection Systems - </li>
+  <li><b>Fall 2023 - Instructor of Record (16 Students)</b> - COSC-4367 Firewalls and Intrusion Detection Systems</li>
 </ul>
