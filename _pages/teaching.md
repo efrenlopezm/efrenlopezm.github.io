@@ -2,10 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught as the main Instructor of Record.
 nav: true
 nav_order: 5
 ---
 
-Instructor of Record (16 Students), COSC-4367 Firewalls and Intrusion Detection Systems
-Texas A&M University-Corpus Christi
+<b>Texas A&M University-Corpus Christi</b>
+
+<ul>
+  <li><b>Instructor of Record (16 Students)</b> - COSC-4367 Firewalls and Intrusion Detection Systems - </li>
+</ul>
