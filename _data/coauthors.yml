@@ -21,3 +21,16 @@
 "Wang":
   - firstname: ["Ruoyu", "R.", "R. W.", "Ruoyu Wang"]
     url: https://rev.fish/
+
+"Abbasi":
+  - firstname: ["Ali", "A.", "A. A.", "Ali Abbasi"]
+    url: https://cispa.de/en/people/c02alab
+
+"Planta":
+  - firstname: ["Ulysse", "U.", "U. P.", "Ulysse Planta"]
+    url: https://cispa.de/en/people/c01ulpl
+
+"Cardenas":
+  - firstname: ["Alvaro", "A.", "A. C.", "Alvaro Cardenas"]
+    url: https://users.soe.ucsc.edu/~alacarde/
+
