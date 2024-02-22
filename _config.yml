@@ -79,7 +79,7 @@ telegram_username: # your Telegram user name
 scholar_userid: b5QDcJIAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0009-0001-4014-4776
+orcid_id: #0009-0001-4014-4776
 medium_username: elopezmorales
 quora_username: # your Quora username
 publons_id: HKE-3127-2023 # your ID on Publons
@@ -92,7 +92,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: https://dblp.org/pid/277/7996.html
+dblp_url: #https://dblp.org/pid/277/7996.html
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
