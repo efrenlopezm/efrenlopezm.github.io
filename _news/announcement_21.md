@@ -4,6 +4,6 @@ date: 2024-04-05 15:59:00-0400
 inline: true
 ---
 
-I presented my satellite security :artificial_satellite: research at the <a href="https://spel-uchile.github.io/iost-workshop/" target="blank">1st Internet of Space Things Workshop</a> organized by the <a href="https://spel.ing.uchile.cl/" target="blank">Space and Planetary Exploration Laboratory</a> and hosted by the <a href="https://uchile.cl/english" target="blank">University of Chile</a> :chile:
+I presented our satellite security :artificial_satellite: research at the <a href="https://spel-uchile.github.io/iost-workshop/" target="blank">1st Internet of Space Things Workshop</a> organized by the <a href="https://spel.ing.uchile.cl/" target="blank">Space and Planetary Exploration Laboratory</a> hosted by the <a href="https://uchile.cl/english" target="blank">University of Chile</a> :chile:
 
 <!-- <a target="_blank" href="{{ '/assets/img/news/cysat.jpeg' | prepend: site.baseurl | prepend: site.url }}">&#91;Photo&#93;</a>. -->
