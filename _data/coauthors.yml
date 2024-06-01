@@ -34,3 +34,31 @@
   - firstname: ["Alvaro", "A.", "A. C.", "Alvaro Cardenas"]
     url: https://users.soe.ucsc.edu/~alacarde/
 
+"Acharya":
+  - firstname: ["Bhupendra", "B.", "B. A.", "Bhupendra Acharya"]
+    url: https://bhupendraacharya.com/
+
+"Cinà":
+  - firstname: ["Antonio", "A.", "A. C.", "Antonio Cinà"]
+    url: https://scholar.google.com/citations?user=Qtj8Lb8AAAAJ&hl=en
+
+"Schönherr":
+  - firstname: ["Lea", "L.", "L. S.", "Lea Schönherr"]
+    url: https://cispa.de/en/people/c01lesc
+
+"Saad":
+  - firstname: ["Muhammad", "M.", "M. S.", "Muhammad Saad"]
+    url: https://scholar.google.com/citations?user=Q-6ibPcAAAAJ&hl=en
+
+"Oest":
+  - firstname: ["Adam", "A.", "A. O.", "Adam Oest"]
+    url: https://scholar.google.com/citations?user=QCcSjqMAAAAJ&hl=en
+
+"Holz":
+  - firstname: ["Thorsten", "T.", "T. H.", "Thorsten Holz"]
+    url: https://cispa.de/en/people/c01thho
+
+"Lazzaro":
+  - firstname: ["Dario", "D.", "D. L.", "Dario Lazzaro"]
+    url: 
+
