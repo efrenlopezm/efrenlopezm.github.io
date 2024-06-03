@@ -73,16 +73,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: efrenlopezm
 gitlab_username: # your GitLab user name
 twitter_username: efren_lopezm
-mastodon_username: mastodon.acm.org/@elopezmorales
+mastodon_username: # mastodon.acm.org/@elopezmorales
 linkedin_username: efrenlopezm
 telegram_username: # your Telegram user name
 scholar_userid: b5QDcJIAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: #0009-0001-4014-4776
-medium_username: elopezmorales
+orcid_id: 0009-0001-4014-4776
+medium_username: # elopezmorales
 quora_username: # your Quora username
-publons_id: # HKE-3127-2023 # your ID on Publons
+publons_id: HKE-3127-2023 # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
