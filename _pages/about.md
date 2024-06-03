@@ -15,6 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-¡Hola! I am a Geospatial Computer Science Ph.D. student at <a href="https://tamucc.edu/" target="blank">Texas A&M University-Corpus Christi</a> working under the supervision of <a href="https://carlosrubiomedrano.com/" target="blank">Dr. Carlos Rubio-Medrano</a>.
+¡Hola! I am a Computer Science Ph.D. student at <a href="https://tamucc.edu/" target="blank">Texas A&M University-Corpus Christi</a> working under the supervision of <a href="https://carlosrubiomedrano.com/" target="blank">Dr. Carlos Rubio-Medrano</a>.
 
 My research interests are Cyber-Physical Systems Security, Satellite Security, and Cyber Deception.
