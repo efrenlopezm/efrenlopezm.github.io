@@ -92,7 +92,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: #https://dblp.org/pid/277/7996.html
+dblp_url: https://dblp.org/pid/277/7996.html
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
@@ -101,7 +101,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: efrenlopezm
+youtube_id: # efrenlopezm
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
