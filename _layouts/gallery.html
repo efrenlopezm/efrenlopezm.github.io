@@ -11,7 +11,7 @@ layout: default
 
           <article>
             {{ content }}
-            {% include image-gallery.html folder="../assets/img/album" %}
+            {% include image-gallery.html folder="/assets/img/album" %}
           </article>
 
           {%- if page.related_publications != null and page.related_publications.size > 0 -%}
