@@ -53,6 +53,12 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Photo gallery -->
+          {% if page.gallery -%}
+            <h2><a href="{{ '/gallery/' | relative_url }}" style="color: inherit;">photo gallery</a></h2>
+            {%- include gallery.html %}
+          {%- endif %}
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
