@@ -92,3 +92,10 @@ transform-origin: 50% 50%;
     -ms-user-select: none;      
     user-select: none;
 }
+
+#lightbox .caption {
+    text-align: center;
+    font-size: 1.2em;
+    color: #fff;
+    margin-top: 10px;
+}
