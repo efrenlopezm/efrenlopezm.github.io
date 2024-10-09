@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-15 15:59:00-0400
+date: 2024-09-02 15:59:00-0400
 inline: true
 ---
 
-:scroll: Our paper <b>ICSNet: A Hybrid-Interaction Honeynet for Industrial Control Systems
-</b> <a target="_blank" href="httºs://efrenlopez.org/assets/pdf/salazar2024icsnet">&#91;Preprint&#93;</a> has been accepted to the <a href="https://cpsiotsec2024b.github.io/" target="blank">6th Workshop on CPS&IoT Security and Privacy (co-located with CCS)</a>!
+:scroll: Our paper <b>By the Numbers: Towards Standard Evaluation Metrics for Programmable Logic Controllers’ Defenses
+</b> <a target="_blank" href="https://efrenlopez.org/assets/pdf/lopez2024numbers">&#91;Preprint&#93;</a> has been accepted to the <a href="https://ricssworkshop.github.io/program.html" target="blank">2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS) (co-located with CCS)</a>!
