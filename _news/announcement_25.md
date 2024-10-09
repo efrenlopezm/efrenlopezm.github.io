@@ -5,4 +5,4 @@ inline: true
 ---
 
 :scroll: Our paper <b>By the Numbers: Towards Standard Evaluation Metrics for Programmable Logic Controllers’ Defenses
-</b> <a target="_blank" href="https://efrenlopez.org/assets/pdf/lopez2024numbers">&#91;Preprint&#93;</a> has been accepted to the <a href="https://ricssworkshop.github.io/program.html" target="blank">2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS) (co-located with CCS)</a>!
+</b> <a target="_blank" href="https://efrenlopez.org/assets/pdf/lopez2024numbers.pdf">&#91;Preprint&#93;</a> has been accepted to the <a href="https://ricssworkshop.github.io/program.html" target="blank">2nd International Workshop on Re-design Industrial Control Systems with Security (RICSS) (co-located with CCS)</a>!
