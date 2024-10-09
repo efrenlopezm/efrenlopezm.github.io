@@ -19,6 +19,6 @@ social: false  # includes social icons at the bottom of the page
 
 My research interests are Cyber-Physical Systems Security, Satellite Security, and Cyber Deception.
 
-<div style="background-color: #ffeb3b; border: 2px solid #ff9800; padding: 10px; font-weight: bold; text-align: center; color: #d32f2f; margin-bottom: 20px; width: 100%;">
+<div style="background-color: #ffeb3b; border: 2px solid #ff9800; padding: 10px; font-weight: bold; text-align: center; color: #d32f2f; margin-bottom: 20px; width: 450px;">
     🚀 <strong>Exciting News!</strong> I am on the <em>job market</em> and actively seeking tenure-track faculty positions in Computer Science! Feel free to <a href="mailto:elopezmorales@islander.tamucc.edu">contact me</a> for opportunities.
 </div>
