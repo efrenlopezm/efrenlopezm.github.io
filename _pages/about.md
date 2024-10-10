@@ -7,7 +7,10 @@ profile:
   align: right
   image: headshot.jpg
   image_circular: true # crops the image to make it circular
-  address: #
+  address: >
+    <p>555 Office: RFEB 209</p>
+    <p>6300 Ocean Dr</p>
+    <p>Corpus Christi, TX 78412/p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
