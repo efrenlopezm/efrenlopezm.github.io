@@ -62,3 +62,15 @@
   - firstname: ["Dario", "D.", "D. L.", "Dario Lazzaro"]
     url: https://twitter.com/lazzd98
 
+"Lozano":
+  - firstname: ["Juan", "J.", "J. L.", "Juan Lozano"]
+    url: https://scholar.google.com/citations?user=REWcf5AAAAAJ&hl=en
+
+"Salazar":
+  - firstname: ["Luis", "L.", "L. S.", "Luis Salazar"]
+    url: https://scholar.google.com/citations?user=aKda31kAAAAJ&hl=en
+
+"Hopkins":
+  - firstname: ["Jacob", "J.", "J. H.", "Jacob Hopkins"]
+    url: https://scholar.google.com/citations?user=_h7oTj8AAAAJ&hl=en&oi=ao
+
