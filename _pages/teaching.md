@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: courses I have taught as the main instructor of record.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 <b>Texas A&M University-Corpus Christi</b>
