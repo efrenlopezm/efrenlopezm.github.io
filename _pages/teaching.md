@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I have taught as the main Instructor of Record.
+description: courses I have taught as the main instructor of record.
 nav: true
 nav_order: 5
 ---
