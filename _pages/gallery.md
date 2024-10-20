@@ -2,7 +2,7 @@
 layout: gallery
 permalink: /gallery/
 title: photo gallery
-description: photos.
-nav: false
-nav_order: 6
+description: selected photos of research presentations, travels, and more.
+nav: true
+nav_order: 5
 ---
