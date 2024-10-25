@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-¡Hola! I am a Computer Science Ph.D. candidate at <a href="https://tamucc.edu/" target="blank">Texas A&M University-Corpus Christi</a> advised by <a href="https://carlosrubiomedrano.com/" target="blank">Dr. Carlos Rubio-Medrano</a> and I collaborate frequently with <a href="https://cispa.de/en/people/c02alab" target="blank">Dr. Ali Abbasi</a> and <a href="https://users.soe.ucsc.edu/~alacarde/" target="blank">Dr. Alvaro Cardenas</a>.
+¡Hola! I am a Computer Science Ph.D. candidate at <a href="https://tamucc.edu/" target="blank">Texas A&M University-Corpus Christi (TAMUCC)</a> advised by <a href="https://carlosrubiomedrano.com/" target="blank">Dr. Carlos Rubio-Medrano</a>.
+During my Ph.D. I completed an internship at the <a href="https://cispa.de/en" target="blank">CISPA Helmholtz Center for Information Securitys</a> in Saarbrücken, Germany advised by <a href="https://scholar.google.com/citations?user=7BgdiU4AAAAJ&hl=en&oi=ao" target="blank">Dr. Ali Abbasi</a> and <a href="https://scholar.google.com/citations?user=tv2HR38AAAAJ&hl=en" target="blank">Dr. Thorsten Holz</a>. Addionally, I was a visiting scholar at <a href="https://srl-ucsc.github.io/" target="blank">University of California, Santa Cruz</a> hosted by <a href="https://users.soe.ucsc.edu/~alacarde/" target="blank">Dr. Alvaro Cardenas</a>.
+Before joining TAMUCC I completed a Master's Degree at Arizona State University working in the <a href="https://sefcom.asu.edu/" target="blank">Security Engineering for Future Computing (SEFCOM)</a> Laboratory advised by <a href="https://adamdoupe.com/" target="blank">Dr. Adam Doupé</a>, <a href="http://www.yancomm.net/" target="blank">Dr. Yan Shoshitaishvili</a>, <a href="https://rev.fish/" target="blank">Dr. Ruoyu (Fish) Wang</a>, and <a href="https://www.tiffanybao.com/" target="blank">Dr. Tiffany Bao</a>.
 
 My research interests are Cyber-Physical Systems Security, Satellite Security, and Cyber Deception.
 
