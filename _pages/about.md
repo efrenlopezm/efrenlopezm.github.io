@@ -22,6 +22,8 @@ social: false  # includes social icons at the bottom of the page
 
 My research interests are Cyber-Physical Systems Security, Satellite Security, and Cyber Deception.
 
+My research has been recognized and supported by the <a href="https://www.iamcybersafe.org/s/2024-scholarship-recipients" target="blank">Center for Cyber Safety and Education (2024)</a>, the <a href="https://www.tamucc.edu/research/graduate-excellence/funding/sage.php" target="blank">Scholar Achievement in Graduate Education (SAGE) Fellowship (2021-2023)</a>, the <a href="https://shpe.org/" target="blank">Society of Hispanic Professional Engineers (2024)</a>, and the <a href="https://conahcyt.mx/" target="blank">Mexican National Council for Science and Technology (CONACYT) (2021-2025)</a>.
+
 <div style="background-color: #ffeb3b; border: 2px solid #ff9800; padding: 10px; font-weight: bold; text-align: center; color: #d32f2f; margin-bottom: 20px; width: 66%;">
     🚀  <i>Exciting News! </i> I am on the  <i>job market </i> and actively seeking tenure-track faculty positions in Computer Science starting in Fall 2025! Feel free to <a href="mailto:elopezmorales@islander.tamucc.edu">contact me</a> for opportunities.
 </div>
