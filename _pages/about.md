@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href="https://www.tamucc.edu/science/departments/computing-sciences/index.php" target="blank">Department of Computer Science</a>.
 profile:
-  align: right
+  align: justify
   image: headshot.jpg
   image_circular: true # crops the image to make it circular
   address: >
