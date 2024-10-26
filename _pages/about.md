@@ -24,9 +24,11 @@ social: false  # includes social icons at the bottom of the page
   Before joining TAMUCC I completed a Master's Degree at Arizona State University working in the <a href="https://sefcom.asu.edu/" target="blank">Security Engineering for Future Computing (SEFCOM)</a> Laboratory advised by <a href="https://adamdoupe.com/" target="blank">Adam Doupé</a>, <a href="http://www.yancomm.net/" target="blank">Yan Shoshitaishvili</a>, <a href="https://rev.fish/" target="blank">Ruoyu "Fish" Wang</a>, and <a href="https://www.tiffanybao.com/" target="blank">Tiffany Bao</a>. <br /><br />
 
   My research interests are Cyber-Physical Systems Security, Satellite Security, and Cyber Deception.
-  My research has been published in top-tier cybersecurity conferences including the ACM Conference on Computer and Communications Security (CCS) and the USENIX Security Symposium. <br /><br />
+  My research has been published in top-tier cybersecurity conferences including the ACM Conference on Computer and Communications Security (CCS) and the USENIX Security Symposium and has won awards such as Best Paper Award at the <a href="https://cpsiotsec2024b.github.io/" target="blank">CPSIoTSec Workshop</a>.<br /><br />
 
   My research has been recognized and supported by the <a href="https://www.iamcybersafe.org/s/2024-scholarship-recipients" target="blank">Center for Cyber Safety and Education (2024)</a>, the <a href="https://www.tamucc.edu/research/graduate-excellence/funding/sage.php" target="blank">Scholar Achievement in Graduate Education (SAGE) Fellowship (2021-2023)</a>, the <a href="https://shpe.org/" target="blank">Society of Hispanic Professional Engineers (2024)</a>, and the <a href="https://conahcyt.mx/" target="blank">Mexican National Council for Science and Technology (CONACYT) (2021-2025)</a>. <br /><br />
+
+  For a comprehensive view of my research and accomplishments please refer to my <a href="https://efrenlopez.org/publications/" target="blank">publications page</a> and <a href="https://efrenlopez.org/assets/pdf/cv_academic_efrenlopez.pdf" target="blank">CV</a>.<br /><br />
 </div>
 
 <div style="background-color: #ffeb3b; border: 2px solid #ff9800; padding: 10px; font-weight: bold; text-align: center; color: #d32f2f; margin-bottom: 20px; width: 66%;">
