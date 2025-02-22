@@ -29,7 +29,3 @@ social: false  # includes social icons at the bottom of the page
 
   For a comprehensive view of my research and accomplishments please refer to my <a href="https://efrenlopez.org/publications/" target="blank">publications page</a> and <a href="https://efrenlopez.org/assets/pdf/cv_academic_efrenlopez.pdf" target="blank">CV</a>.<br /><br />
 </div>
-
-<div style="background-color: #ffeb3b; border: 2px solid #ff9800; padding: 10px; font-weight: bold; text-align: center; color: #d32f2f; margin-bottom: 20px; width: 66%;">
-    🚀  <i>Exciting News! </i> I am on the  <i>job market </i> and actively seeking tenure-track faculty positions in Computer Science starting in Fall 2025! Feel free to <a href="mailto:elopezmorales@islander.tamucc.edu">contact me</a> for opportunities.
-</div>
