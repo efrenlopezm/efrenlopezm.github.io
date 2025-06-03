@@ -74,3 +74,19 @@
   - firstname: ["Jacob", "J.", "J. H.", "Jacob Hopkins"]
     url: https://scholar.google.com/citations?user=_h7oTj8AAAAJ&hl=en&oi=ao
 
+"Marra":
+  - firstname: ["Gabriele", "G.", "G. M.", "Gabriele Marra"]
+    url: https://scholar.google.com/citations?user=7yNg4kQAAAAJ&hl=en
+
+"González":
+  - firstname: ["Carlos", "C.", "C. G.", "Carlos González"]
+    url: https://scholar.google.cl/citations?user=uQpX7GcAAAAJ&hl=en
+
+"Garoosi":
+  - firstname: ["Majid", "M.", "M. G.", "Majid Garoosi"]
+    url: https://cispa.de/en/people/c02maga
+
+"Obreque":
+  - firstname: ["Elias", "E.", "E. O.", "Elias Obreque"]
+    url: https://scholar.google.com/citations?user=WGKl8NgAAAAJ&hl=en
+
